@@ -1,6 +1,6 @@
 # projeto-android
 
-Feito com HTML5, CSS3, 
+Feito com HTML5, CSS3
 
 
 # Link do Site:
